@@ -9,3 +9,5 @@ There are three game modes:
 3. HARD -> the player must only catch sushi which is as indicated at the top of the screen.
 
 In each of the game modes above, the player will have three lives. Catching COVID-19, missing sushi, or catching sushi which is not as indicated at the top of the screen (for "HARD" mode only) will make the player lose a live in the game.
+
+To play the game, Processing (https://processing.org/) needs to be installed on your machine before running the game.
